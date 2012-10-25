@@ -1,0 +1,515 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AboutArrayAssignment	about_array_assignment.rb	/^class AboutArrayAssignment < EdgeCase::Koan$/;"	c
+AboutArrays	about_arrays.rb	/^class AboutArrays < EdgeCase::Koan$/;"	c
+AboutAsserts	about_asserts.rb	/^class AboutAsserts < EdgeCase::Koan$/;"	c
+AboutBlocks	about_blocks.rb	/^class AboutBlocks < EdgeCase::Koan$/;"	c
+AboutClassMethods	about_class_methods.rb	/^class AboutClassMethods < EdgeCase::Koan$/;"	c
+AboutClasses	about_classes.rb	/^class AboutClasses < EdgeCase::Koan$/;"	c
+AboutConstants	about_constants.rb	/^class AboutConstants < EdgeCase::Koan$/;"	c
+AboutControlStatements	about_control_statements.rb	/^class AboutControlStatements < EdgeCase::Koan$/;"	c
+AboutDiceProject	about_dice_project.rb	/^class AboutDiceProject < EdgeCase::Koan$/;"	c
+AboutExceptions	about_exceptions.rb	/^class AboutExceptions < EdgeCase::Koan$/;"	c
+AboutHashes	about_hashes.rb	/^class AboutHashes < EdgeCase::Koan$/;"	c
+AboutInheritance	about_inheritance.rb	/^class AboutInheritance < EdgeCase::Koan$/;"	c
+AboutIteration	about_iteration.rb	/^class AboutIteration < EdgeCase::Koan$/;"	c
+AboutJavaInterop	about_java_interop.rb	/^class AboutJavaInterop < EdgeCase::Koan$/;"	c
+AboutMessagePassing	about_message_passing.rb	/^class AboutMessagePassing < EdgeCase::Koan$/;"	c
+AboutMethods	about_methods.rb	/^class AboutMethods < EdgeCase::Koan$/;"	c
+AboutModules	about_modules.rb	/^class AboutModules < EdgeCase::Koan$/;"	c
+AboutNil	about_nil.rb	/^class AboutNil < EdgeCase::Koan$/;"	c
+AboutObjects	about_objects.rb	/^class AboutObjects < EdgeCase::Koan$/;"	c
+AboutOpenClasses	about_open_classes.rb	/^class AboutOpenClasses < EdgeCase::Koan$/;"	c
+AboutProxyObjectProject	about_proxy_object_project.rb	/^class AboutProxyObjectProject < EdgeCase::Koan$/;"	c
+AboutRegularExpressions	about_regular_expressions.rb	/^class AboutRegularExpressions < EdgeCase::Koan$/;"	c
+AboutSandwichCode	about_sandwich_code.rb	/^class AboutSandwichCode < EdgeCase::Koan$/;"	c
+AboutScope	about_scope.rb	/^class AboutScope < EdgeCase::Koan$/;"	c
+AboutScoringProject	about_scoring_project.rb	/^class AboutScoringProject < EdgeCase::Koan$/;"	c
+AboutStrings	about_strings.rb	/^class AboutStrings < EdgeCase::Koan$/;"	c
+AboutSymbols	about_symbols.rb	/^class AboutSymbols < EdgeCase::Koan$/;"	c
+AboutToStr	about_to_str.rb	/^class AboutToStr < EdgeCase::Koan$/;"	c
+AboutTriangleProject	about_triangle_project.rb	/^class AboutTriangleProject < EdgeCase::Koan$/;"	c
+AboutTriangleProject2	about_triangle_project_2.rb	/^class AboutTriangleProject2 < EdgeCase::Koan$/;"	c
+AboutTrueAndFalse	about_true_and_false.rb	/^class AboutTrueAndFalse < EdgeCase::Koan$/;"	c
+AllMessageCatcher	about_message_passing.rb	/^  class AllMessageCatcher$/;"	c	class:AboutMessagePassing
+Animal	about_constants.rb	/^  class Animal$/;"	c	class:AboutConstants
+ArrayTest	array_test.rb	/^class ArrayTest < EdgeCase::TestCase$/;"	c
+Bird	about_constants.rb	/^    class Bird < Animal$/;"	c	class:AboutConstants.MyAnimals
+BullDog	about_inheritance.rb	/^  class BullDog < Dog$/;"	c	class:AboutInheritance
+CanBeTreatedAsString	about_to_str.rb	/^  class CanBeTreatedAsString$/;"	c	class:AboutToStr
+CanNotBeTreatedAsString	about_to_str.rb	/^  class CanNotBeTreatedAsString$/;"	c	class:AboutToStr
+Chihuahua	about_inheritance.rb	/^  class Chihuahua < Dog$/;"	c	class:AboutInheritance
+Color	edgecase.rb	/^  module Color$/;"	m
+Dog	about_class_methods.rb	/^  class Dog$/;"	c
+Dog	about_class_methods.rb	/^  class Dog$/;"	c	class:AboutClassMethods
+Dog	about_classes.rb	/^  class Dog$/;"	c	class:AboutClasses
+Dog	about_inheritance.rb	/^  class Dog$/;"	c	class:AboutInheritance
+Dog	about_methods.rb	/^  class Dog$/;"	c	class:AboutMethods
+Dog	about_modules.rb	/^  class Dog$/;"	c	class:AboutModules
+Dog	about_open_classes.rb	/^  class Dog$/;"	c	class:AboutOpenClasses
+Dog	about_scope.rb	/^    class Dog$/;"	c	class:AboutScope.Jims
+Dog	about_scope.rb	/^    class Dog$/;"	c	class:AboutScope.Joes
+Dog2	about_class_methods.rb	/^  class Dog2$/;"	c	class:AboutClassMethods
+Dog2	about_classes.rb	/^  class Dog2$/;"	c	class:AboutClasses
+Dog3	about_classes.rb	/^  class Dog3$/;"	c	class:AboutClasses
+Dog4	about_classes.rb	/^  class Dog4$/;"	c	class:AboutClasses
+Dog5	about_classes.rb	/^  class Dog5$/;"	c	class:AboutClasses
+Dog6	about_classes.rb	/^  class Dog6$/;"	c	class:AboutClasses
+Dog7	about_classes.rb	/^  class Dog7$/;"	c	class:AboutClasses
+EdgeCase	edgecase.rb	/^module EdgeCase$/;"	m
+FillMeInError	edgecase.rb	/^class FillMeInError < StandardError$/;"	c
+GreatDane	about_inheritance.rb	/^  class GreatDane < Dog$/;"	c	class:AboutInheritance
+Java	about_java_interop.rb	/^  class Java::JavaUtil::ArrayList$/;"	c	class:AboutJavaInterop
+Jims	about_scope.rb	/^  module Jims$/;"	m	class:AboutScope
+Joes	about_scope.rb	/^  module Joes$/;"	m	class:AboutScope
+KeyError	edgecase.rb	/^  class KeyError < StandardError$/;"	c
+Koan	edgecase.rb	/^  class Koan$/;"	c
+MessageCatcher	about_message_passing.rb	/^  class MessageCatcher$/;"	c	class:AboutMessagePassing
+MyAnimals	about_constants.rb	/^  class MyAnimals$/;"	c	class:AboutConstants
+MyAnimals	about_constants.rb	/^  class MyAnimals::Oyster < Animal$/;"	c	class:AboutConstants
+MySpecialError	about_exceptions.rb	/^  class MySpecialError < RuntimeError$/;"	c	class:AboutExceptions
+Nameable	about_modules.rb	/^  module Nameable$/;"	m	class:AboutModules
+NestedAnimal	about_constants.rb	/^    class NestedAnimal$/;"	c	class:AboutConstants.Animal
+Object	edgecase.rb	/^class Object$/;"	c
+Proxy	about_proxy_object_project.rb	/^class Proxy$/;"	c
+Reptile	about_constants.rb	/^  class Reptile < Animal$/;"	c	class:AboutConstants
+Sensei	edgecase.rb	/^  class Sensei$/;"	c
+String	about_scope.rb	/^  class String$/;"	c	class:AboutScope
+String	edgecase.rb	/^class String$/;"	c
+Television	about_proxy_object_project.rb	/^class Television$/;"	c
+TelevisionTest	about_proxy_object_project.rb	/^class TelevisionTest < EdgeCase::Koan$/;"	c
+TestSomething	first_test.rb	/^class TestSomething < Test::Unit::TestCase$/;"	c
+ThePath	edgecase.rb	/^  class ThePath$/;"	c
+TriangleError	triangle.rb	/^class TriangleError < StandardError$/;"	c
+TypicalObject	about_message_passing.rb	/^  class TypicalObject$/;"	c	class:AboutMessagePassing
+WellBehavedFooCatcher	about_message_passing.rb	/^  class WellBehavedFooCatcher$/;"	c	class:AboutMessagePassing
+__	edgecase.rb	/^def __(value="FILL ME IN", value19=:mu)$/;"	f
+__	test_helper.rb	/^def __$/;"	f
+___	edgecase.rb	/^def ___(value=FillMeInError, value19=:mu)$/;"	f
+____	edgecase.rb	/^  def ____(method=nil)$/;"	f	class:Object
+_n_	edgecase.rb	/^def _n_(value=999999, value19=:mu)$/;"	f
+a_class_method	about_class_methods.rb	/^    def Dog.a_class_method$/;"	F	class:AboutClassMethods.Dog
+a_zenlike_statement	edgecase.rb	/^    def a_zenlike_statement$/;"	f
+acts_like_a_string?	about_to_str.rb	/^  def acts_like_a_string?(string)$/;"	f	class:AboutToStr
+add_a_payload	about_message_passing.rb	/^    def add_a_payload(*args)$/;"	f	class:AboutMessagePassing.MessageCatcher
+add_progress	edgecase.rb	/^    def add_progress(prog)$/;"	f
+another_class_method	about_class_methods.rb	/^      def another_class_method$/;"	f	class:Dog
+artistic_end_screen	edgecase.rb	/^    def artistic_end_screen$/;"	f
+as_name	about_iteration.rb	/^    def as_name(name)$/;"	f
+as_name	about_iteration.rb	/^    def as_name(name)$/;"	f	class:AboutIteration
+assert_failed?	edgecase.rb	/^    def assert_failed?$/;"	f
+bark	about_inheritance.rb	/^    def bark$/;"	f	class:AboutInheritance.BullDog
+bark	about_inheritance.rb	/^    def bark$/;"	f	class:AboutInheritance.Chihuahua
+bark	about_inheritance.rb	/^    def bark$/;"	f	class:AboutInheritance.Dog
+bark	about_modules.rb	/^    def bark$/;"	f	class:AboutModules.Dog
+bark	about_open_classes.rb	/^    def bark$/;"	f	class:AboutOpenClasses.Dog
+boring_end_screen	edgecase.rb	/^    def boring_end_screen$/;"	f
+caught?	about_message_passing.rb	/^    def caught?$/;"	f	class:AboutMessagePassing.MessageCatcher
+class_method2	about_class_methods.rb	/^    def self.class_method2$/;"	F	class:Dog
+color	edgecase.rb	/^    def color(color_value)$/;"	f	class:Color
+colorize	edgecase.rb	/^    def colorize(string, color_value)$/;"	f	class:Color
+command_line	edgecase.rb	/^      def command_line(args)$/;"	f	class:Koan
+count_lines	about_sandwich_code.rb	/^  def count_lines(file_name)$/;"	f	class:AboutSandwichCode
+count_lines2	about_sandwich_code.rb	/^  def count_lines2(file_name)$/;"	f	class:AboutSandwichCode
+count_lines3	about_sandwich_code.rb	/^  def count_lines3(file_name)$/;"	f	class:AboutSandwichCode
+each_step	edgecase.rb	/^    def each_step$/;"	f	class:ThePath
+embolden_first_line_only	edgecase.rb	/^    def embolden_first_line_only(text)$/;"	f
+encourage	edgecase.rb	/^    def encourage$/;"	f
+end_of_enlightenment	edgecase.rb	/^      def end_of_enlightenment$/;"	f	class:Koan
+end_screen	edgecase.rb	/^    def end_screen$/;"	f
+even?	about_open_classes.rb	/^    def even?$/;"	f	class:AboutOpenClasses
+failed	edgecase.rb	/^    def failed(failure)$/;"	f	class:Koan
+failed?	edgecase.rb	/^    def failed?$/;"	f
+file_sandwich	about_sandwich_code.rb	/^  def file_sandwich(file_name)$/;"	f	class:AboutSandwichCode
+find_interesting_lines	edgecase.rb	/^    def find_interesting_lines(backtrace)$/;"	f
+find_line	about_sandwich_code.rb	/^  def find_line(file_name)$/;"	f	class:AboutSandwichCode
+find_line2	about_sandwich_code.rb	/^  def find_line2(file_name)$/;"	f	class:AboutSandwichCode
+get_self	about_classes.rb	/^    def get_self$/;"	f	class:AboutClasses.Dog7
+growl	about_inheritance.rb	/^    def growl$/;"	f	class:AboutInheritance.GreatDane
+guide_through_error	edgecase.rb	/^    def guide_through_error$/;"	f
+here	about_modules.rb	/^    def here$/;"	f	class:AboutModules.Dog
+here	about_modules.rb	/^    def here$/;"	f	class:AboutModules.Nameable
+identify	about_scope.rb	/^      def identify$/;"	f	class:AboutScope.Jims.Dog
+identify	about_scope.rb	/^      def identify$/;"	f	class:AboutScope.Joes.Dog
+in_ruby_version	edgecase.rb	/^def in_ruby_version(*versions)$/;"	f
+indent	edgecase.rb	/^    def indent(text)$/;"	f
+inherited	edgecase.rb	/^      def inherited(subclass)$/;"	f	class:Koan
+initialize	about_classes.rb	/^    def initialize(initial_name)$/;"	f	class:AboutClasses.Dog6
+initialize	about_classes.rb	/^    def initialize(initial_name)$/;"	f	class:AboutClasses.Dog7
+initialize	about_inheritance.rb	/^    def initialize(name)$/;"	f	class:AboutInheritance.Dog
+initialize	about_modules.rb	/^    def initialize$/;"	f	class:AboutModules.Dog
+initialize	about_proxy_object_project.rb	/^  def initialize(target_object)$/;"	f	class:Proxy
+initialize	edgecase.rb	/^    def initialize$/;"	f
+initialize	edgecase.rb	/^    def initialize(name, koan_file=nil, koan_count=0, step_count=0)$/;"	f	class:Koan
+inspect	about_classes.rb	/^    def inspect$/;"	f	class:AboutClasses.Dog7
+instruct	edgecase.rb	/^    def instruct$/;"	f
+legs_in_animal	about_constants.rb	/^    def legs_in_animal$/;"	f	class:AboutConstants.Animal
+legs_in_bird	about_constants.rb	/^      def legs_in_bird$/;"	f	class:AboutConstants.MyAnimals.Bird
+legs_in_nested_animal	about_constants.rb	/^      def legs_in_nested_animal$/;"	f	class:AboutConstants.Animal.NestedAnimal
+legs_in_oyster	about_constants.rb	/^    def legs_in_oyster$/;"	f	class:AboutConstants.MyAnimals
+legs_in_reptile	about_constants.rb	/^    def legs_in_reptile$/;"	f	class:AboutConstants.Reptile
+many_yields	about_blocks.rb	/^  def many_yields$/;"	f	class:AboutBlocks
+meditate	edgecase.rb	/^    def meditate$/;"	f	class:Koan
+method_added	edgecase.rb	/^      def method_added(name)$/;"	f	class:Koan
+method_missing	about_message_passing.rb	/^    def method_missing(method_name, *args, &block)$/;"	f	class:AboutMessagePassing.AllMessageCatcher
+method_missing	about_message_passing.rb	/^    def method_missing(method_name, *args, &block)$/;"	f	class:AboutMessagePassing.WellBehavedFooCatcher
+method_with_block	about_blocks.rb	/^  def method_with_block$/;"	f	class:AboutBlocks
+method_with_block_arguments	about_blocks.rb	/^  def method_with_block_arguments$/;"	f	class:AboutBlocks
+method_with_defaults	about_methods.rb	/^  def method_with_defaults(a, b=:default_value)$/;"	f	class:AboutMethods
+method_with_explicit_block	about_blocks.rb	/^  def method_with_explicit_block(&block)$/;"	f	class:AboutBlocks
+method_with_explicit_return	about_methods.rb	/^  def method_with_explicit_return$/;"	f	class:AboutMethods
+method_with_var_args	about_methods.rb	/^  def method_with_var_args(*args)$/;"	f	class:AboutMethods
+method_without_explicit_return	about_methods.rb	/^  def method_without_explicit_return$/;"	f	class:AboutMethods
+multiply_all	about_java_interop.rb	/^    def multiply_all$/;"	f	class:AboutJavaInterop.Java
+my_global_method	about_methods.rb	/^def my_global_method(a,b)$/;"	f
+my_method_in_the_same_class	about_methods.rb	/^  def my_method_in_the_same_class(a, b)$/;"	f	class:AboutMethods
+my_private_method	about_methods.rb	/^  def my_private_method$/;"	f	class:AboutMethods
+name	about_class_methods.rb	/^  def Dog.name$/;"	F	class:AboutClassMethods
+name	about_classes.rb	/^    def name$/;"	f	class:AboutClasses.Dog3
+name	about_methods.rb	/^    def name$/;"	f	class:AboutMethods.Dog
+observe	edgecase.rb	/^    def observe(step)$/;"	f
+on?	about_proxy_object_project.rb	/^  def on?$/;"	f	class:Television
+passed?	edgecase.rb	/^    def passed?$/;"	f	class:Koan
+power	about_proxy_object_project.rb	/^  def power$/;"	f	class:Television
+progress	edgecase.rb	/^    def progress$/;"	f
+respond_to?	about_message_passing.rb	/^    def respond_to?(method_name)$/;"	f	class:AboutMessagePassing.WellBehavedFooCatcher
+ruby_version?	edgecase.rb	/^def ruby_version?(version)$/;"	f
+score	about_scoring_project.rb	/^def score(dice)$/;"	f
+set_name	about_classes.rb	/^    def set_name(a_name)$/;"	f	class:AboutClasses.Dog2
+set_name	about_classes.rb	/^    def set_name(a_name)$/;"	f	class:AboutClasses.Dog3
+set_name	about_classes.rb	/^    def set_name(a_name)$/;"	f	class:AboutClasses.Dog4
+set_name	about_modules.rb	/^    def set_name(new_name)$/;"	f	class:AboutModules.Nameable
+setup	edgecase.rb	/^    def setup$/;"	f	class:Koan
+show_progress	edgecase.rb	/^    def show_progress$/;"	f
+side_padding	edgecase.rb	/^  def side_padding(width)$/;"	f	class:String
+simple_output	edgecase.rb	/^    def simple_output$/;"	f	class:EdgeCase
+subclasses	edgecase.rb	/^      def subclasses$/;"	f	class:Koan
+tail	about_methods.rb	/^    def tail$/;"	f	class:AboutMethods.Dog
+teardown	edgecase.rb	/^    def teardown$/;"	f	class:Koan
+test_a_better_way_of_asserting_equality	about_asserts.rb	/^  def test_a_better_way_of_asserting_equality$/;"	f	class:AboutAsserts
+test_a_character_class_can_be_negated	about_regular_expressions.rb	/^  def test_a_character_class_can_be_negated$/;"	f	class:AboutRegularExpressions
+test_a_failed_match_returns_nil	about_regular_expressions.rb	/^  def test_a_failed_match_returns_nil$/;"	f	class:AboutRegularExpressions
+test_a_pattern_is_a_regular_expression	about_regular_expressions.rb	/^  def test_a_pattern_is_a_regular_expression$/;"	f	class:AboutRegularExpressions
+test_a_regexp_can_search_a_string_for_matching_content	about_regular_expressions.rb	/^  def test_a_regexp_can_search_a_string_for_matching_content$/;"	f	class:AboutRegularExpressions
+test_a_vertical_pipe_means_or	about_regular_expressions.rb	/^  def test_a_vertical_pipe_means_or$/;"	f	class:AboutRegularExpressions
+test_accessing_array_elements	about_arrays.rb	/^  def test_accessing_array_elements$/;"	f	class:AboutArrays
+test_accessing_hashes	about_hashes.rb	/^  def test_accessing_hashes$/;"	f	class:AboutHashes
+test_accessing_hashes_with_fetch	about_hashes.rb	/^  def test_accessing_hashes_with_fetch$/;"	f	class:AboutHashes
+test_adding_to_an_array_with_push	array_test.rb	/^  def test_adding_to_an_array_with_push$/;"	f	class:ArrayTest
+test_adding_to_an_array_with_shovel_shovel	array_test.rb	/^  def test_adding_to_an_array_with_shovel_shovel$/;"	f	class:ArrayTest
+test_adding_to_an_array_with_unshift	array_test.rb	/^  def test_adding_to_an_array_with_unshift$/;"	f	class:ArrayTest
+test_after_reopening_dogs_can_both_wag_and_bark	about_open_classes.rb	/^  def test_after_reopening_dogs_can_both_wag_and_bark$/;"	f	class:AboutOpenClasses
+test_all_classes_ultimately_inherit_from_object	about_inheritance.rb	/^  def test_all_classes_ultimately_inherit_from_object$/;"	f	class:AboutInheritance
+test_all_iteration_methods_work_on_any_collection_not_just_arrays	about_iteration.rb	/^  def test_all_iteration_methods_work_on_any_collection_not_just_arrays$/;"	f
+test_all_messages_are_caught	about_message_passing.rb	/^  def test_all_messages_are_caught$/;"	f	class:AboutMessagePassing
+test_all_objects_support_to_s_and_inspect	about_classes.rb	/^  def test_all_objects_support_to_s_and_inspect$/;"	f	class:AboutClasses
+test_also_java_class_can_be_given_ruby_aliases	about_java_interop.rb	/^  def test_also_java_class_can_be_given_ruby_aliases$/;"	f	class:AboutJavaInterop
+test_any_ruby_expression_may_be_interpolated	about_strings.rb	/^  def test_any_ruby_expression_may_be_interpolated$/;"	f	class:AboutStrings
+test_args_to_new_must_match_initialize	about_classes.rb	/^  def test_args_to_new_must_match_initialize$/;"	f	class:AboutClasses
+test_array_access	array_test.rb	/^  def test_array_access$/;"	f	class:ArrayTest
+test_array_literals	about_arrays.rb	/^  def test_array_literals$/;"	f	class:AboutArrays
+test_arrays_and_ranges	about_arrays.rb	/^  def test_arrays_and_ranges$/;"	f	class:AboutArrays
+test_arrays_with_other_objects	array_test.rb	/^  def test_arrays_with_other_objects$/;"	f	class:ArrayTest
+test_as_defined_dogs_do_bark	about_open_classes.rb	/^  def test_as_defined_dogs_do_bark$/;"	f	class:AboutOpenClasses
+test_assert	first_test.rb	/^  def test_assert$/;"	f	class:TestSomething
+test_assert_equality	about_asserts.rb	/^  def test_assert_equality$/;"	f	class:AboutAsserts
+test_assert_truth	about_asserts.rb	/^  def test_assert_truth$/;"	f	class:AboutAsserts
+test_assert_with_message	about_asserts.rb	/^  def test_assert_with_message$/;"	f	class:AboutAsserts
+test_asserting_an_error_is_raised	about_exceptions.rb	/^  def test_asserting_an_error_is_raised$/;"	f	class:AboutExceptions
+test_asterisk_means_zero_or_more	about_regular_expressions.rb	/^  def test_asterisk_means_zero_or_more$/;"	f	class:AboutRegularExpressions
+test_attr_accessor_will_automatically_define_both_read_and_write_accessors	about_classes.rb	/^  def test_attr_accessor_will_automatically_define_both_read_and_write_accessors$/;"	f	class:AboutClasses
+test_attr_reader_will_automatically_define_an_accessor	about_classes.rb	/^  def test_attr_reader_will_automatically_define_an_accessor$/;"	f	class:AboutClasses
+test_bare_bones_class_names_assume_the_current_scope	about_scope.rb	/^  def test_bare_bones_class_names_assume_the_current_scope$/;"	f	class:AboutScope
+test_basic_arrays	array_test.rb	/^  def test_basic_arrays$/;"	f	class:ArrayTest
+test_block_can_affect_variables_in_the_code_where_they_are_created	about_blocks.rb	/^  def test_block_can_affect_variables_in_the_code_where_they_are_created$/;"	f	class:AboutBlocks
+test_blocks_can_be_assigned_to_variables_and_called_explicitly	about_blocks.rb	/^  def test_blocks_can_be_assigned_to_variables_and_called_explicitly$/;"	f	class:AboutBlocks
+test_blocks_can_be_defined_with_do_end_too	about_blocks.rb	/^  def test_blocks_can_be_defined_with_do_end_too$/;"	f	class:AboutBlocks
+test_blocks_can_take_arguments	about_blocks.rb	/^  def test_blocks_can_take_arguments$/;"	f	class:AboutBlocks
+test_break_statement	about_control_statements.rb	/^  def test_break_statement$/;"	f
+test_break_statement_returns_values	about_control_statements.rb	/^  def test_break_statement_returns_values$/;"	f
+test_break_works_with_each_style_iterations	about_iteration.rb	/^  def test_break_works_with_each_style_iterations$/;"	f
+test_calling_global_methods	about_methods.rb	/^  def test_calling_global_methods$/;"	f	class:AboutMethods
+test_calling_global_methods_with_wrong_number_of_arguments	about_methods.rb	/^  def test_calling_global_methods_with_wrong_number_of_arguments$/;"	f	class:AboutMethods
+test_calling_global_methods_without_parentheses	about_methods.rb	/^  def test_calling_global_methods_without_parentheses$/;"	f	class:AboutMethods
+test_calling_method_missing_causes_the_no_method_error	about_message_passing.rb	/^  def test_calling_method_missing_causes_the_no_method_error$/;"	f	class:AboutMessagePassing
+test_calling_methods_in_other_objects_require_explicit_receiver	about_methods.rb	/^  def test_calling_methods_in_other_objects_require_explicit_receiver$/;"	f	class:AboutMethods
+test_calling_methods_in_same_class	about_methods.rb	/^  def test_calling_methods_in_same_class$/;"	f	class:AboutMethods
+test_calling_methods_in_same_class_with_explicit_receiver	about_methods.rb	/^  def test_calling_methods_in_same_class_with_explicit_receiver$/;"	f	class:AboutMethods
+test_calling_private_methods_in_other_objects	about_methods.rb	/^  def test_calling_private_methods_in_other_objects$/;"	f	class:AboutMethods
+test_calling_private_methods_with_an_explicit_receiver	about_methods.rb	/^  def test_calling_private_methods_with_an_explicit_receiver$/;"	f	class:AboutMethods
+test_calling_private_methods_without_receiver	about_methods.rb	/^  def test_calling_private_methods_without_receiver$/;"	f	class:AboutMethods
+test_calling_with_default_values	about_methods.rb	/^  def test_calling_with_default_values$/;"	f	class:AboutMethods
+test_calling_with_variable_arguments	about_methods.rb	/^  def test_calling_with_variable_arguments$/;"	f	class:AboutMethods
+test_can_create_a_dice_set	about_dice_project.rb	/^  def test_can_create_a_dice_set$/;"	f	class:AboutDiceProject
+test_can_directly_call_java_methods_on_java_objects	about_java_interop.rb	/^  def test_can_directly_call_java_methods_on_java_objects$/;"	f	class:AboutJavaInterop
+test_can_set_the_channel	about_proxy_object_project.rb	/^  def test_can_set_the_channel$/;"	f	class:TelevisionTest
+test_cant_instantiate_modules	about_modules.rb	/^  def test_cant_instantiate_modules$/;"	f	class:AboutModules
+test_caret_anchors_to_the_start_of_lines	about_regular_expressions.rb	/^  def test_caret_anchors_to_the_start_of_lines$/;"	f	class:AboutRegularExpressions
+test_catching_messages_makes_respond_to_lie	about_message_passing.rb	/^  def test_catching_messages_makes_respond_to_lie$/;"	f	class:AboutMessagePassing
+test_changing_hashes	about_hashes.rb	/^  def test_changing_hashes$/;"	f	class:AboutHashes
+test_character_classes_can_include_ranges	about_regular_expressions.rb	/^  def test_character_classes_can_include_ranges$/;"	f	class:AboutRegularExpressions
+test_character_classes_give_options_for_a_character	about_regular_expressions.rb	/^  def test_character_classes_give_options_for_a_character$/;"	f	class:AboutRegularExpressions
+test_class_methods_are_independent_of_instance_methods	about_class_methods.rb	/^  def test_class_methods_are_independent_of_instance_methods$/;"	f	class:AboutClassMethods
+test_class_names_are_just_constants	about_scope.rb	/^  def test_class_names_are_just_constants$/;"	f	class:AboutScope
+test_class_statements_return_the_value_of_their_last_expression	about_class_methods.rb	/^  def test_class_statements_return_the_value_of_their_last_expression$/;"	f
+test_classes_and_instances_do_not_share_instance_variables	about_class_methods.rb	/^  def test_classes_and_instances_do_not_share_instance_variables$/;"	f	class:AboutClassMethods
+test_classes_are_classes	about_class_methods.rb	/^  def test_classes_are_classes$/;"	f	class:AboutClassMethods
+test_classes_are_objects_too	about_class_methods.rb	/^  def test_classes_are_objects_too$/;"	f	class:AboutClassMethods
+test_classes_can_be_asked_if_they_know_how_to_respond	about_message_passing.rb	/^  def test_classes_can_be_asked_if_they_know_how_to_respond$/;"	f	class:AboutMessagePassing
+test_classes_can_override_module_methods	about_modules.rb	/^  def test_classes_can_override_module_methods$/;"	f	class:AboutModules
+test_classes_have_methods	about_class_methods.rb	/^  def test_classes_have_methods$/;"	f	class:AboutClassMethods
+test_clone_creates_a_different_object	about_objects.rb	/^  def test_clone_creates_a_different_object$/;"	f	class:AboutObjects
+test_collect_transforms_elements_of_an_array	about_iteration.rb	/^  def test_collect_transforms_elements_of_an_array$/;"	f
+test_combining_hashes	about_hashes.rb	/^  def test_combining_hashes$/;"	f	class:AboutHashes
+test_condition_operators	about_control_statements.rb	/^  def test_condition_operators$/;"	f
+test_constants_are_defined_with_an_initial_uppercase_letter	about_scope.rb	/^  def test_constants_are_defined_with_an_initial_uppercase_letter$/;"	f	class:AboutScope
+test_constants_become_symbols	about_symbols.rb	/^    def test_constants_become_symbols$/;"	f	class:AboutSymbols
+test_constants_can_be_looked_up_explicitly	about_scope.rb	/^  def test_constants_can_be_looked_up_explicitly$/;"	f	class:AboutScope
+test_counting_lines	about_sandwich_code.rb	/^  def test_counting_lines$/;"	f	class:AboutSandwichCode
+test_counting_lines2	about_sandwich_code.rb	/^  def test_counting_lines2$/;"	f	class:AboutSandwichCode
+test_creating_arrays	about_arrays.rb	/^  def test_creating_arrays$/;"	f	class:AboutArrays
+test_creating_hashes	about_hashes.rb	/^  def test_creating_hashes$/;"	f	class:AboutHashes
+test_default_value	about_hashes.rb	/^  def test_default_value$/;"	f	class:AboutHashes
+test_default_value_is_the_same_object	about_hashes.rb	/^  def test_default_value_is_the_same_object$/;"	f	class:AboutHashes
+test_default_value_with_block	about_hashes.rb	/^  def test_default_value_with_block$/;"	f	class:AboutHashes
+test_dice_values_do_not_change_unless_explicitly_rolled	about_dice_project.rb	/^  def test_dice_values_do_not_change_unless_explicitly_rolled$/;"	f	class:AboutDiceProject
+test_dice_values_should_change_between_rolls	about_dice_project.rb	/^  def test_dice_values_should_change_between_rolls$/;"	f	class:AboutDiceProject
+test_different_objects_have_different_instance_variables	about_classes.rb	/^  def test_different_objects_have_different_instance_variables$/;"	f	class:AboutClasses
+test_dog_is_not_available_in_the_current_scope	about_scope.rb	/^  def test_dog_is_not_available_in_the_current_scope$/;"	f	class:AboutScope
+test_dollar_sign_anchors_to_the_end_of_lines	about_regular_expressions.rb	/^  def test_dollar_sign_anchors_to_the_end_of_lines$/;"	f	class:AboutRegularExpressions
+test_double_quoted_string_interpret_escape_characters	about_strings.rb	/^  def test_double_quoted_string_interpret_escape_characters$/;"	f	class:AboutStrings
+test_double_quoted_strings_are_strings	about_strings.rb	/^  def test_double_quoted_strings_are_strings$/;"	f	class:AboutStrings
+test_double_quoted_strings_interpolate_variables	about_strings.rb	/^  def test_double_quoted_strings_interpolate_variables$/;"	f	class:AboutStrings
+test_each_can_use_curly_brace_blocks_too	about_iteration.rb	/^  def test_each_can_use_curly_brace_blocks_too$/;"	f
+test_each_is_a_method_on_arrays	about_iteration.rb	/^  def test_each_is_a_method_on_arrays$/;"	f
+test_edge_case_on_off	about_proxy_object_project.rb	/^  def test_edge_case_on_off$/;"	f	class:TelevisionTest
+test_ensure_clause	about_exceptions.rb	/^  def test_ensure_clause$/;"	f	class:AboutExceptions
+test_equilateral_triangles_have_equal_sides	about_triangle_project.rb	/^  def test_equilateral_triangles_have_equal_sides$/;"	f	class:AboutTriangleProject
+test_even_existing_built_in_classes_can_be_reopened	about_open_classes.rb	/^  def test_even_existing_built_in_classes_can_be_reopened$/;"	f
+test_every_object_has_an_id	about_objects.rb	/^  def test_every_object_has_an_id$/;"	f	class:AboutObjects
+test_every_object_has_different_id	about_objects.rb	/^  def test_every_object_has_different_id$/;"	f	class:AboutObjects
+test_everything_else_is_treated_as_true	about_true_and_false.rb	/^  def test_everything_else_is_treated_as_true$/;"	f	class:AboutTrueAndFalse
+test_everything_is_an_object	about_objects.rb	/^  def test_everything_is_an_object$/;"	f	class:AboutObjects
+test_exceptions_inherit_from_Exception	about_exceptions.rb	/^  def test_exceptions_inherit_from_Exception$/;"	f	class:AboutExceptions
+test_explicitly_implementing_respond_to_lets_objects_tell_the_truth	about_message_passing.rb	/^  def test_explicitly_implementing_respond_to_lets_objects_tell_the_truth$/;"	f	class:AboutMessagePassing
+test_false_is_treated_as_false	about_true_and_false.rb	/^  def test_false_is_treated_as_false$/;"	f	class:AboutTrueAndFalse
+test_fill_in_values	about_asserts.rb	/^  def test_fill_in_values$/;"	f	class:AboutAsserts
+test_find_locates_the_first_element_matching_a_criteria	about_iteration.rb	/^  def test_find_locates_the_first_element_matching_a_criteria$/;"	f
+test_finding_lines	about_sandwich_code.rb	/^  def test_finding_lines$/;"	f	class:AboutSandwichCode
+test_finding_lines2	about_sandwich_code.rb	/^  def test_finding_lines2$/;"	f	class:AboutSandwichCode
+test_flexible_quotes_can_handle_multiple_lines	about_strings.rb	/^  def test_flexible_quotes_can_handle_multiple_lines$/;"	f	class:AboutStrings
+test_foo_method_are_caught	about_message_passing.rb	/^  def test_foo_method_are_caught$/;"	f	class:AboutMessagePassing
+test_for_statement	about_control_statements.rb	/^  def test_for_statement$/;"	f
+test_gsub_is_like_find_and_replace_all	about_regular_expressions.rb	/^  def test_gsub_is_like_find_and_replace_all$/;"	f	class:AboutRegularExpressions
+test_hash_is_unordered	about_hashes.rb	/^  def test_hash_is_unordered$/;"	f	class:AboutHashes
+test_hash_keys	about_hashes.rb	/^  def test_hash_keys$/;"	f	class:AboutHashes
+test_hash_literals	about_hashes.rb	/^  def test_hash_literals$/;"	f	class:AboutHashes
+test_hash_values	about_hashes.rb	/^  def test_hash_values$/;"	f	class:AboutHashes
+test_here_documents_can_also_handle_multiple_lines	about_strings.rb	/^  def test_here_documents_can_also_handle_multiple_lines$/;"	f	class:AboutStrings
+test_heres_an_easy_way_to_call_class_methods_from_instance_methods	about_class_methods.rb	/^  def test_heres_an_easy_way_to_call_class_methods_from_instance_methods$/;"	f
+test_heres_still_another_way_to_write_class_methods	about_class_methods.rb	/^  def test_heres_still_another_way_to_write_class_methods$/;"	f
+test_however_most_methods_returning_strings_return_ruby_strings	about_java_interop.rb	/^  def test_however_most_methods_returning_strings_return_ruby_strings$/;"	f	class:AboutJavaInterop
+test_identical_symbols_are_a_single_internal_object	about_symbols.rb	/^  def test_identical_symbols_are_a_single_internal_object$/;"	f	class:AboutSymbols
+test_if_statement_modifiers	about_control_statements.rb	/^  def test_if_statement_modifiers$/;"	f
+test_if_statements_return_values	about_control_statements.rb	/^  def test_if_statements_return_values$/;"	f	class:AboutControlStatements
+test_if_statements_with_no_else_with_false_condition_return_value	about_control_statements.rb	/^  def test_if_statements_with_no_else_with_false_condition_return_value$/;"	f
+test_if_then_else_statements	about_control_statements.rb	/^  def test_if_then_else_statements$/;"	f	class:AboutControlStatements
+test_if_then_statements	about_control_statements.rb	/^  def test_if_then_statements$/;"	f	class:AboutControlStatements
+test_illegal_triangles_throw_exceptions	about_triangle_project_2.rb	/^  def test_illegal_triangles_throw_exceptions$/;"	f	class:AboutTriangleProject2
+test_in_ruby_1_8_single_characters_are_represented_by_integers	about_strings.rb	/^    def test_in_ruby_1_8_single_characters_are_represented_by_integers$/;"	f	class:AboutStrings
+test_in_ruby_1_9_single_characters_are_represented_by_strings	about_strings.rb	/^    def test_in_ruby_1_9_single_characters_are_represented_by_strings$/;"	f
+test_include_class_includes_class_in_module_scope	about_java_interop.rb	/^  def test_include_class_includes_class_in_module_scope$/;"	f	class:AboutJavaInterop
+test_initialize_provides_initial_values_for_instance_variables	about_classes.rb	/^  def test_initialize_provides_initial_values_for_instance_variables$/;"	f	class:AboutClasses
+test_inject_will_blow_your_mind	about_iteration.rb	/^  def test_inject_will_blow_your_mind$/;"	f
+test_inside_a_method_self_refers_to_the_containing_object	about_classes.rb	/^  def test_inside_a_method_self_refers_to_the_containing_object$/;"	f	class:AboutClasses
+test_inspect_provides_a_more_complete_string_version	about_classes.rb	/^  def test_inspect_provides_a_more_complete_string_version$/;"	f	class:AboutClasses
+test_instance_variables_can_be_set_by_assigning_to_them	about_classes.rb	/^  def test_instance_variables_can_be_set_by_assigning_to_them$/;"	f	class:AboutClasses
+test_instance_variables_cannot_be_accessed_outside_the_class	about_classes.rb	/^  def test_instance_variables_cannot_be_accessed_outside_the_class$/;"	f	class:AboutClasses
+test_instances_of_classes_can_be_created_with_new	about_classes.rb	/^  def test_instances_of_classes_can_be_created_with_new$/;"	f	class:AboutClasses
+test_isosceles_triangles_have_exactly_two_sides_equal	about_triangle_project.rb	/^  def test_isosceles_triangles_have_exactly_two_sides_equal$/;"	f	class:AboutTriangleProject
+test_it_also_turns_off	about_proxy_object_project.rb	/^  def test_it_also_turns_off$/;"	f	class:TelevisionTest
+test_it_turns_on	about_proxy_object_project.rb	/^  def test_it_turns_on$/;"	f	class:TelevisionTest
+test_iterating_with_each	about_iteration.rb	/^  def test_iterating_with_each$/;"	f
+test_java_class_are_open_from_ruby	about_java_interop.rb	/^  def test_java_class_are_open_from_ruby$/;"	f	class:AboutJavaInterop
+test_java_class_can_be_referenced_using_both_ruby_and_java_like_syntax	about_java_interop.rb	/^  def test_java_class_can_be_referenced_using_both_ruby_and_java_like_syntax$/;"	f	class:AboutJavaInterop
+test_java_collections_are_enumerable	about_java_interop.rb	/^  def test_java_collections_are_enumerable$/;"	f	class:AboutJavaInterop
+test_java_string_are_not_ruby_strings	about_java_interop.rb	/^  def test_java_string_are_not_ruby_strings$/;"	f	class:AboutJavaInterop
+test_java_strings_can_be_compared_to_ruby_strings_maybe	about_java_interop.rb	/^  def test_java_strings_can_be_compared_to_ruby_strings_maybe$/;"	f	class:AboutJavaInterop
+test_jruby_provides_question_mark_versions_of_boolean_methods	about_java_interop.rb	/^  def test_jruby_provides_question_mark_versions_of_boolean_methods$/;"	f	class:AboutJavaInterop
+test_jruby_provides_snake_case_versions_of_java_methods	about_java_interop.rb	/^  def test_jruby_provides_snake_case_versions_of_java_methods$/;"	f	class:AboutJavaInterop
+test_method_names_become_symbols	about_symbols.rb	/^  def test_method_names_become_symbols$/;"	f	class:AboutSymbols
+test_method_with_explicit_return	about_methods.rb	/^  def test_method_with_explicit_return$/;"	f	class:AboutMethods
+test_method_without_explicit_return	about_methods.rb	/^  def test_method_without_explicit_return$/;"	f	class:AboutMethods
+test_methods_can_be_called_directly	about_message_passing.rb	/^  def test_methods_can_be_called_directly$/;"	f	class:AboutMessagePassing
+test_methods_can_be_invoked_by_sending_the_message	about_message_passing.rb	/^  def test_methods_can_be_invoked_by_sending_the_message$/;"	f	class:AboutMessagePassing
+test_methods_can_be_invoked_more_dynamically	about_message_passing.rb	/^  def test_methods_can_be_invoked_more_dynamically$/;"	f	class:AboutMessagePassing
+test_methods_can_call_yield_many_times	about_blocks.rb	/^  def test_methods_can_call_yield_many_times$/;"	f	class:AboutBlocks
+test_methods_can_see_if_they_have_been_called_with_a_block	about_blocks.rb	/^  def test_methods_can_see_if_they_have_been_called_with_a_block$/;"	f	class:AboutBlocks
+test_methods_can_take_an_explicit_block_argument	about_blocks.rb	/^  def test_methods_can_take_an_explicit_block_argument$/;"	f	class:AboutBlocks
+test_methods_can_take_blocks	about_blocks.rb	/^  def test_methods_can_take_blocks$/;"	f	class:AboutBlocks
+test_module_methods_are_also_available_in_the_object	about_modules.rb	/^  def test_module_methods_are_also_available_in_the_object$/;"	f	class:AboutModules
+test_module_methods_can_affect_instance_variables_in_the_object	about_modules.rb	/^  def test_module_methods_can_affect_instance_variables_in_the_object$/;"	f	class:AboutModules
+test_nested_classes_inherit_constants_from_enclosing_classes	about_constants.rb	/^  def test_nested_classes_inherit_constants_from_enclosing_classes$/;"	f	class:AboutConstants
+test_nested_constants_are_referenced_by_their_complete_path	about_constants.rb	/^  def test_nested_constants_are_referenced_by_their_complete_path$/;"	f	class:AboutConstants
+test_nested_constants_may_also_be_referenced_with_relative_paths	about_constants.rb	/^  def test_nested_constants_may_also_be_referenced_with_relative_paths$/;"	f	class:AboutConstants
+test_nested_string_is_not_the_same_as_the_system_string	about_scope.rb	/^  def test_nested_string_is_not_the_same_as_the_system_string$/;"	f	class:AboutScope
+test_next_statement	about_control_statements.rb	/^  def test_next_statement$/;"	f
+test_nil_has_a_few_methods_defined_on_it	about_nil.rb	/^  def test_nil_has_a_few_methods_defined_on_it$/;"	f	class:AboutNil
+test_nil_is_an_object	about_nil.rb	/^  def test_nil_is_an_object$/;"	f	class:AboutNil
+test_nil_is_treated_as_false_too	about_true_and_false.rb	/^  def test_nil_is_treated_as_false_too$/;"	f	class:AboutTrueAndFalse
+test_non_foo_messages_are_treated_normally	about_message_passing.rb	/^  def test_non_foo_messages_are_treated_normally$/;"	f	class:AboutMessagePassing
+test_non_parallel_assignment	about_array_assignment.rb	/^  def test_non_parallel_assignment$/;"	f	class:AboutArrayAssignment
+test_normal_methods_are_available_in_the_object	about_modules.rb	/^  def test_normal_methods_are_available_in_the_object$/;"	f	class:AboutModules
+test_normally_objects_cannot_be_used_where_strings_are_expected	about_to_str.rb	/^  def test_normally_objects_cannot_be_used_where_strings_are_expected$/;"	f	class:AboutToStr
+test_objects_are_objects	about_class_methods.rb	/^  def test_objects_are_objects$/;"	f	class:AboutClassMethods
+test_objects_can_be_converted_to_strings	about_objects.rb	/^  def test_objects_can_be_converted_to_strings$/;"	f	class:AboutObjects
+test_objects_can_be_inspected	about_objects.rb	/^  def test_objects_can_be_inspected$/;"	f	class:AboutObjects
+test_objects_have_methods	about_class_methods.rb	/^  def test_objects_have_methods$/;"	f	class:AboutClassMethods
+test_open_handles_the_file_sandwich_when_given_a_block	about_sandwich_code.rb	/^  def test_open_handles_the_file_sandwich_when_given_a_block$/;"	f	class:AboutSandwichCode
+test_other_objects_are_not_affected_by_these_singleton_methods	about_class_methods.rb	/^  def test_other_objects_are_not_affected_by_these_singleton_methods$/;"	f	class:AboutClassMethods
+test_parallel_assignment_with_one_variable	about_array_assignment.rb	/^  def test_parallel_assignment_with_one_variable$/;"	f	class:AboutArrayAssignment
+test_parallel_assignments	about_array_assignment.rb	/^  def test_parallel_assignments$/;"	f	class:AboutArrayAssignment
+test_parallel_assignments_with_extra_values	about_array_assignment.rb	/^  def test_parallel_assignments_with_extra_values$/;"	f	class:AboutArrayAssignment
+test_parallel_assignments_with_splat_operator	about_array_assignment.rb	/^  def test_parallel_assignments_with_splat_operator$/;"	f	class:AboutArrayAssignment
+test_parallel_assignments_with_subarrays	about_array_assignment.rb	/^  def test_parallel_assignments_with_subarrays$/;"	f	class:AboutArrayAssignment
+test_parallel_assignments_with_too_few_variables	about_array_assignment.rb	/^  def test_parallel_assignments_with_too_few_variables$/;"	f	class:AboutArrayAssignment
+test_parentheses_also_capture_matched_content_by_number	about_regular_expressions.rb	/^  def test_parentheses_also_capture_matched_content_by_number$/;"	f	class:AboutRegularExpressions
+test_parentheses_group_contents	about_regular_expressions.rb	/^  def test_parentheses_group_contents$/;"	f	class:AboutRegularExpressions
+test_pattern	edgecase.rb	/^      def test_pattern$/;"	f	class:Koan
+test_period_is_a_shortcut_for_any_non_newline_character	about_regular_expressions.rb	/^  def test_period_is_a_shortcut_for_any_non_newline_character$/;"	f	class:AboutRegularExpressions
+test_plus_concatenation_will_leave_the_original_strings_unmodified	about_strings.rb	/^  def test_plus_concatenation_will_leave_the_original_strings_unmodified$/;"	f	class:AboutStrings
+test_plus_equals_also_will_leave_the_original_string_unmodified	about_strings.rb	/^  def test_plus_equals_also_will_leave_the_original_string_unmodified$/;"	f	class:AboutStrings
+test_plus_equals_will_concatenate_to_the_end_of_a_string	about_strings.rb	/^  def test_plus_equals_will_concatenate_to_the_end_of_a_string$/;"	f	class:AboutStrings
+test_plus_means_one_or_more	about_regular_expressions.rb	/^  def test_plus_means_one_or_more$/;"	f	class:AboutRegularExpressions
+test_plus_will_concatenate_two_strings	about_strings.rb	/^  def test_plus_will_concatenate_two_strings$/;"	f	class:AboutStrings
+test_proxy_can_record_more_than_just_tv_objects	about_proxy_object_project.rb	/^  def test_proxy_can_record_more_than_just_tv_objects$/;"	f	class:AboutProxyObjectProject
+test_proxy_counts_method_calls	about_proxy_object_project.rb	/^  def test_proxy_counts_method_calls$/;"	f	class:AboutProxyObjectProject
+test_proxy_handles_invalid_messages	about_proxy_object_project.rb	/^  def test_proxy_handles_invalid_messages$/;"	f	class:AboutProxyObjectProject
+test_proxy_method_returns_wrapped_object	about_proxy_object_project.rb	/^  def test_proxy_method_returns_wrapped_object$/;"	f	class:AboutProxyObjectProject
+test_proxy_records_messages_sent_to_tv	about_proxy_object_project.rb	/^  def test_proxy_records_messages_sent_to_tv$/;"	f	class:AboutProxyObjectProject
+test_proxy_reports_methods_have_been_called	about_proxy_object_project.rb	/^  def test_proxy_reports_methods_have_been_called$/;"	f	class:AboutProxyObjectProject
+test_pushing_and_popping_arrays	about_arrays.rb	/^  def test_pushing_and_popping_arrays$/;"	f	class:AboutArrays
+test_question_mark_means_optional	about_regular_expressions.rb	/^  def test_question_mark_means_optional$/;"	f	class:AboutRegularExpressions
+test_raising_a_particular_error	about_exceptions.rb	/^  def test_raising_a_particular_error$/;"	f	class:AboutExceptions
+test_rescue_clause	about_exceptions.rb	/^  def test_rescue_clause$/;"	f	class:AboutExceptions
+test_rolling_the_dice_returns_a_set_of_integers_between_1_and_6	about_dice_project.rb	/^  def test_rolling_the_dice_returns_a_set_of_integers_between_1_and_6$/;"	f	class:AboutDiceProject
+test_scalene_triangles_have_no_equal_sides	about_triangle_project.rb	/^  def test_scalene_triangles_have_no_equal_sides$/;"	f	class:AboutTriangleProject
+test_scan_is_like_find_all	about_regular_expressions.rb	/^  def test_scan_is_like_find_all$/;"	f	class:AboutRegularExpressions
+test_score_of_a_single_roll_of_1_is_100	about_scoring_project.rb	/^  def test_score_of_a_single_roll_of_1_is_100$/;"	f	class:AboutScoringProject
+test_score_of_a_single_roll_of_5_is_50	about_scoring_project.rb	/^  def test_score_of_a_single_roll_of_5_is_50$/;"	f	class:AboutScoringProject
+test_score_of_a_triple_1_is_1000	about_scoring_project.rb	/^  def test_score_of_a_triple_1_is_1000$/;"	f	class:AboutScoringProject
+test_score_of_an_empty_list_is_zero	about_scoring_project.rb	/^  def test_score_of_an_empty_list_is_zero$/;"	f	class:AboutScoringProject
+test_score_of_mixed_is_sum	about_scoring_project.rb	/^  def test_score_of_mixed_is_sum$/;"	f	class:AboutScoringProject
+test_score_of_multiple_1s_and_5s_is_the_sum_of_individual_scores	about_scoring_project.rb	/^  def test_score_of_multiple_1s_and_5s_is_the_sum_of_individual_scores$/;"	f	class:AboutScoringProject
+test_score_of_other_triples_is_100x	about_scoring_project.rb	/^  def test_score_of_other_triples_is_100x$/;"	f	class:AboutScoringProject
+test_score_of_single_2s_3s_4s_and_6s_are_zero	about_scoring_project.rb	/^  def test_score_of_single_2s_3s_4s_and_6s_are_zero$/;"	f	class:AboutScoringProject
+test_select_selects_certain_items_from_an_array	about_iteration.rb	/^  def test_select_selects_certain_items_from_an_array$/;"	f
+test_self_while_inside_class_is_class_object_not_instance	about_class_methods.rb	/^  def test_self_while_inside_class_is_class_object_not_instance$/;"	f
+test_send_with_underscores_will_also_send_messages	about_message_passing.rb	/^  def test_send_with_underscores_will_also_send_messages$/;"	f	class:AboutMessagePassing
+test_sending_a_message_with_arguments	about_message_passing.rb	/^  def test_sending_a_message_with_arguments$/;"	f	class:AboutMessagePassing
+test_sending_undefined_messages_to_a_typical_object_results_in_errors	about_message_passing.rb	/^  def test_sending_undefined_messages_to_a_typical_object_results_in_errors$/;"	f	class:AboutMessagePassing
+test_shifting_arrays	about_arrays.rb	/^  def test_shifting_arrays$/;"	f	class:AboutArrays
+test_shortcut_character_classes_are_negated_with_capitals	about_regular_expressions.rb	/^  def test_shortcut_character_classes_are_negated_with_capitals$/;"	f	class:AboutRegularExpressions
+test_since_classes_are_objects_you_can_define_singleton_methods_on_them_too	about_class_methods.rb	/^  def test_since_classes_are_objects_you_can_define_singleton_methods_on_them_too$/;"	f	class:AboutClassMethods
+test_single_quoted_string_do_not_interpret_escape_characters	about_strings.rb	/^  def test_single_quoted_string_do_not_interpret_escape_characters$/;"	f	class:AboutStrings
+test_single_quoted_strings_are_also_strings	about_strings.rb	/^  def test_single_quoted_strings_are_also_strings$/;"	f	class:AboutStrings
+test_single_quoted_strings_do_not_interpolate	about_strings.rb	/^  def test_single_quoted_strings_do_not_interpolate$/;"	f	class:AboutStrings
+test_single_quotes_sometimes_interpret_escape_characters	about_strings.rb	/^  def test_single_quotes_sometimes_interpret_escape_characters$/;"	f	class:AboutStrings
+test_slash_a_anchors_to_the_start_of_the_string	about_regular_expressions.rb	/^  def test_slash_a_anchors_to_the_start_of_the_string$/;"	f	class:AboutRegularExpressions
+test_slash_b_anchors_to_a_word_boundary	about_regular_expressions.rb	/^  def test_slash_b_anchors_to_a_word_boundary$/;"	f	class:AboutRegularExpressions
+test_slash_d_is_a_shortcut_for_a_digit_character_class	about_regular_expressions.rb	/^  def test_slash_d_is_a_shortcut_for_a_digit_character_class$/;"	f	class:AboutRegularExpressions
+test_slash_s_is_a_shortcut_for_a_whitespace_character_class	about_regular_expressions.rb	/^  def test_slash_s_is_a_shortcut_for_a_whitespace_character_class$/;"	f	class:AboutRegularExpressions
+test_slash_w_is_a_shortcut_for_a_word_character_class	about_regular_expressions.rb	/^  def test_slash_w_is_a_shortcut_for_a_word_character_class$/;"	f	class:AboutRegularExpressions
+test_slash_z_anchors_to_the_end_of_the_string	about_regular_expressions.rb	/^  def test_slash_z_anchors_to_the_end_of_the_string$/;"	f	class:AboutRegularExpressions
+test_slicing_arrays	about_arrays.rb	/^  def test_slicing_arrays$/;"	f	class:AboutArrays
+test_slicing_with_ranges	about_arrays.rb	/^  def test_slicing_with_ranges$/;"	f	class:AboutArrays
+test_small_integers_have_fixed_ids	about_objects.rb	/^  def test_small_integers_have_fixed_ids$/;"	f	class:AboutObjects
+test_some_ruby_objects_are_not_coerced_to_what_you_might_expect	about_java_interop.rb	/^  def test_some_ruby_objects_are_not_coerced_to_what_you_might_expect$/;"	f	class:AboutJavaInterop
+test_some_ruby_objects_can_be_coerced_to_java	about_java_interop.rb	/^  def test_some_ruby_objects_can_be_coerced_to_java$/;"	f	class:AboutJavaInterop
+test_some_system_objects_always_have_the_same_id	about_objects.rb	/^  def test_some_system_objects_always_have_the_same_id$/;"	f	class:AboutObjects
+test_sometimes_missing_parentheses_are_ambiguous	about_methods.rb	/^  def test_sometimes_missing_parentheses_are_ambiguous$/;"	f	class:AboutMethods
+test_stand_alone_blocks_can_be_passed_to_methods_expecting_blocks	about_blocks.rb	/^  def test_stand_alone_blocks_can_be_passed_to_methods_expecting_blocks$/;"	f	class:AboutBlocks
+test_strings_are_unique_objects	about_strings.rb	/^  def test_strings_are_unique_objects$/;"	f
+test_strings_can_be_joined	about_strings.rb	/^  def test_strings_can_be_joined$/;"	f
+test_strings_can_be_split	about_strings.rb	/^  def test_strings_can_be_split$/;"	f
+test_strings_can_be_split_with_different_patterns	about_strings.rb	/^  def test_strings_can_be_split_with_different_patterns$/;"	f
+test_sub_is_like_find_and_replace	about_regular_expressions.rb	/^  def test_sub_is_like_find_and_replace$/;"	f	class:AboutRegularExpressions
+test_subclasses_add_new_behavior	about_inheritance.rb	/^  def test_subclasses_add_new_behavior$/;"	f	class:AboutInheritance
+test_subclasses_can_invoke_parent_behavior_via_super	about_inheritance.rb	/^  def test_subclasses_can_invoke_parent_behavior_via_super$/;"	f	class:AboutInheritance
+test_subclasses_can_modify_existing_behavior	about_inheritance.rb	/^  def test_subclasses_can_modify_existing_behavior$/;"	f	class:AboutInheritance
+test_subclasses_have_the_parent_as_an_ancestor	about_inheritance.rb	/^  def test_subclasses_have_the_parent_as_an_ancestor$/;"	f	class:AboutInheritance
+test_subclasses_inherit_behavior_from_parent_class	about_inheritance.rb	/^  def test_subclasses_inherit_behavior_from_parent_class$/;"	f	class:AboutInheritance
+test_subclasses_inherit_constants_from_parent_classes	about_constants.rb	/^  def test_subclasses_inherit_constants_from_parent_classes$/;"	f	class:AboutConstants
+test_super_does_not_work_cross_method	about_inheritance.rb	/^  def test_super_does_not_work_cross_method$/;"	f	class:AboutInheritance
+test_swapping_with_parallel_assignment	about_array_assignment.rb	/^  def test_swapping_with_parallel_assignment$/;"	f	class:AboutArrayAssignment
+test_symbols_are_not_strings	about_symbols.rb	/^  def test_symbols_are_not_strings$/;"	f
+test_symbols_are_symbols	about_symbols.rb	/^  def test_symbols_are_symbols$/;"	f	class:AboutSymbols
+test_symbols_can_be_compared	about_symbols.rb	/^  def test_symbols_can_be_compared$/;"	f	class:AboutSymbols
+test_symbols_can_be_dynamically_created	about_symbols.rb	/^  def test_symbols_can_be_dynamically_created$/;"	f
+test_symbols_can_be_made_from_strings	about_symbols.rb	/^  def test_symbols_can_be_made_from_strings$/;"	f
+test_symbols_cannot_be_concatenated	about_symbols.rb	/^  def test_symbols_cannot_be_concatenated$/;"	f
+test_symbols_do_not_have_string_methods	about_symbols.rb	/^  def test_symbols_do_not_have_string_methods$/;"	f
+test_symbols_with_interpolation_can_be_built	about_symbols.rb	/^  def test_symbols_with_interpolation_can_be_built$/;"	f
+test_symbols_with_spaces_can_be_built	about_symbols.rb	/^  def test_symbols_with_spaces_can_be_built$/;"	f
+test_the_left_most_match_wins	about_regular_expressions.rb	/^  def test_the_left_most_match_wins$/;"	f	class:AboutRegularExpressions
+test_the_shovel_operator_modifies_the_original_string	about_strings.rb	/^  def test_the_shovel_operator_modifies_the_original_string$/;"	f	class:AboutStrings
+test_the_shovel_operator_will_also_append_content_to_a_string	about_strings.rb	/^  def test_the_shovel_operator_will_also_append_content_to_a_string$/;"	f	class:AboutStrings
+test_to_s_is_called_on_interpolated_symbols	about_symbols.rb	/^  def test_to_s_is_called_on_interpolated_symbols$/;"	f
+test_to_s_is_used_in_string_interpolation	about_classes.rb	/^  def test_to_s_is_used_in_string_interpolation$/;"	f	class:AboutClasses
+test_to_s_provides_a_string_version_of_the_object	about_classes.rb	/^  def test_to_s_provides_a_string_version_of_the_object$/;"	f	class:AboutClasses
+test_to_s_returns_a_string_representation	about_to_str.rb	/^  def test_to_s_returns_a_string_representation$/;"	f	class:AboutToStr
+test_to_str_allows_objects_to_be_treated_as_strings	about_to_str.rb	/^  def test_to_str_allows_objects_to_be_treated_as_strings$/;"	f	class:AboutToStr
+test_to_str_also_returns_a_string_representation	about_to_str.rb	/^  def test_to_str_also_returns_a_string_representation$/;"	f	class:AboutToStr
+test_top_level_constants_are_referenced_by_double_colons	about_constants.rb	/^  def test_top_level_constants_are_referenced_by_double_colons$/;"	f	class:AboutConstants
+test_true_is_treated_as_true	about_true_and_false.rb	/^  def test_true_is_treated_as_true$/;"	f	class:AboutTrueAndFalse
+test_tv_methods_still_perform_their_function	about_proxy_object_project.rb	/^  def test_tv_methods_still_perform_their_function$/;"	f	class:AboutProxyObjectProject
+test_unless_statement	about_control_statements.rb	/^  def test_unless_statement$/;"	f
+test_unless_statement_evaluate_true	about_control_statements.rb	/^  def test_unless_statement_evaluate_true$/;"	f
+test_unless_statement_modifier	about_control_statements.rb	/^  def test_unless_statement_modifier$/;"	f
+test_use_backslash_for_those_hard_cases	about_strings.rb	/^  def test_use_backslash_for_those_hard_cases$/;"	f	class:AboutStrings
+test_use_double_quotes_to_create_strings_with_single_quotes	about_strings.rb	/^  def test_use_double_quotes_to_create_strings_with_single_quotes$/;"	f	class:AboutStrings
+test_use_flexible_quoting_to_handle_really_hard_cases	about_strings.rb	/^  def test_use_flexible_quoting_to_handle_really_hard_cases$/;"	f	class:AboutStrings
+test_use_single_quotes_to_create_string_with_double_quotes	about_strings.rb	/^  def test_use_single_quotes_to_create_string_with_double_quotes$/;"	f	class:AboutStrings
+test_use_the_prefix_scope_operator_to_force_the_global_scope	about_scope.rb	/^  def test_use_the_prefix_scope_operator_to_force_the_global_scope$/;"	f	class:AboutScope
+test_user_defined_code_can_check_for_to_str	about_to_str.rb	/^  def test_user_defined_code_can_check_for_to_str$/;"	f	class:AboutToStr
+test_using_a_java_library_class	about_java_interop.rb	/^  def test_using_a_java_library_class$/;"	f	class:AboutJavaInterop
+test_variables_can_also_be_used_to_access_captures	about_regular_expressions.rb	/^  def test_variables_can_also_be_used_to_access_captures$/;"	f	class:AboutRegularExpressions
+test_while_statement	about_control_statements.rb	/^  def test_while_statement$/;"	f
+test_who_wins_with_both_nested_and_inherited_constants	about_constants.rb	/^  def test_who_wins_with_both_nested_and_inherited_constants$/;"	f	class:AboutConstants
+test_who_wins_with_explicit_scoping_on_class_definition	about_constants.rb	/^  def test_who_wins_with_explicit_scoping_on_class_definition$/;"	f	class:AboutConstants
+test_you_can_create_accessor_methods_to_return_instance_variables	about_classes.rb	/^  def test_you_can_create_accessor_methods_to_return_instance_variables$/;"	f	class:AboutClasses
+test_you_can_define_class_methods_inside_the_class	about_class_methods.rb	/^  def test_you_can_define_class_methods_inside_the_class$/;"	f	class:AboutClassMethods
+test_you_can_define_methods_on_individual_objects	about_class_methods.rb	/^  def test_you_can_define_methods_on_individual_objects$/;"	f	class:AboutClassMethods
+test_you_can_get_a_list_of_constants_for_any_class_or_module	about_scope.rb	/^  def test_you_can_get_a_list_of_constants_for_any_class_or_module$/;"	f	class:AboutScope
+test_you_can_get_a_single_character_from_a_string	about_strings.rb	/^  def test_you_can_get_a_single_character_from_a_string$/;"	f	class:AboutStrings
+test_you_can_get_a_substring_from_a_string	about_strings.rb	/^  def test_you_can_get_a_substring_from_a_string$/;"	f	class:AboutStrings
+test_you_can_politely_ask_for_instance_variable_values	about_classes.rb	/^  def test_you_can_politely_ask_for_instance_variable_values$/;"	f	class:AboutClasses
+test_you_can_reference_nested_classes_using_the_scope_operator	about_scope.rb	/^  def test_you_can_reference_nested_classes_using_the_scope_operator$/;"	f	class:AboutScope
+test_you_can_rip_the_value_out_using_instance_eval	about_classes.rb	/^  def test_you_can_rip_the_value_out_using_instance_eval$/;"	f	class:AboutClasses
+test_you_can_roll_different_numbers_of_dice	about_dice_project.rb	/^  def test_you_can_roll_different_numbers_of_dice$/;"	f	class:AboutDiceProject
+test_you_can_use_self_instead_of_an_explicit_reference_to_dog	about_class_methods.rb	/^  def test_you_can_use_self_instead_of_an_explicit_reference_to_dog$/;"	f
+test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil	about_nil.rb	/^  def test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil$/;"	f	class:AboutNil
+testmethods	edgecase.rb	/^      def testmethods$/;"	f	class:Koan
+tests_disabled?	edgecase.rb	/^      def tests_disabled?$/;"	f	class:Koan
+to_s	about_classes.rb	/^    def to_s$/;"	f	class:AboutClasses.Dog7
+to_s	about_to_str.rb	/^    def to_s$/;"	f	class:AboutToStr.CanBeTreatedAsString
+to_s	about_to_str.rb	/^    def to_s$/;"	f	class:AboutToStr.CanNotBeTreatedAsString
+to_str	about_to_str.rb	/^    def to_str$/;"	f	class:AboutToStr.CanBeTreatedAsString
+total_tests	edgecase.rb	/^      def total_tests$/;"	f	class:Koan
+triangle	triangle.rb	/^def triangle(a, b, c)$/;"	f
+truth_value	about_true_and_false.rb	/^  def truth_value(condition)$/;"	f	class:AboutTrueAndFalse
+use_colors?	edgecase.rb	/^    def use_colors?$/;"	f	class:Color
+using_win32console	edgecase.rb	/^    def using_win32console$/;"	f	class:Color
+using_windows?	edgecase.rb	/^    def using_windows?$/;"	f	class:Color
+wag	about_class_methods.rb	/^    def fido.wag$/;"	F	class:AboutClassMethods.test_other_objects_are_not_affected_by_these_singleton_methods
+wag	about_class_methods.rb	/^    def fido.wag$/;"	F	class:AboutClassMethods.test_you_can_define_methods_on_individual_objects
+wag	about_class_methods.rb	/^    def wag$/;"	f	class:AboutClassMethods.Dog2
+wag	about_class_methods.rb	/^  def Dog2.wag$/;"	F	class:AboutClassMethods
+wag	about_inheritance.rb	/^    def wag$/;"	f	class:AboutInheritance.Chihuahua
+wag	about_open_classes.rb	/^    def wag$/;"	f	class:AboutOpenClasses.Dog
+walk	edgecase.rb	/^    def walk$/;"	f	class:ThePath
+yield_tester	about_blocks.rb	/^  def yield_tester$/;"	f	class:AboutBlocks
